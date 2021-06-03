@@ -2,7 +2,7 @@
 
 ![](images/main.png)
 
-This is a website that me and my teammates created for the Communications Lab, Summer 2021 class.  
+This is a website to showcase the video that me and my teammates created for the Communications Lab, Summer 2021 class.  
 We had to come up with a concept, shoot the video, and edit it in 30 minutes during class time.  
 This website was created to present this video in an artistic way.
 
